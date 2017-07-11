@@ -3,7 +3,7 @@ package search;
 /**
  * Created by t-hanxl on 7/11/2017.
  */
-public class BinarySearchTree<T extends  Comparable<T>,V>{
+public class BinarySearchTree {
     private BSTNode root;
 
     private static class BSTNode<T extends  Comparable<T>,V>{
